@@ -1,4 +1,4 @@
-# kaggle
+# Kaggle
 🖥 My notebooks and datasets for Kaggle competitions will be saved here.
 
 ## ⏲Started At
